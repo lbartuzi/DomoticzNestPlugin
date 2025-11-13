@@ -1,6 +1,7 @@
 # Nest SDM Plugin for Domoticz
 
 A robust Python plugin for integrating Google Nest devices with Domoticz home automation system using the Smart Device Management (SDM) API.
+Or at least I hope it is robust. Current version still in testing. 
 
 ## 🌟 Features
 
@@ -232,7 +233,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⚠️ Disclaimer
 
-This is an unofficial plugin and is not affiliated with, endorsed by, or connected to Google or Nest. Use at your own risk.
+This is an unofficial plugin and is not affiliated with, endorsed by, or connected to Google or Nest or Domoticz. Use at your own risk.
+No warranties but a lot of pleasure with a working integration. 
 
 ## 🙏 Acknowledgments
 
