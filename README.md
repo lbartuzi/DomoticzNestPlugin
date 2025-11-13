@@ -46,6 +46,7 @@ A robust Python plugin for integrating Google Nest devices with Domoticz home au
      - `https://www.google.com`
      - `https://www.getpostman.com/oauth2/callback`
      - `http://localhost:8080/`
+     - `https://where your domoticz runs if exposed.com`
    - Save your Client ID and Client Secret
 
 ### Step 3: Create Device Access Project
