@@ -4,7 +4,7 @@ A robust Python plugin for integrating Google Nest devices with Domoticz home au
 Or at least I hope it is robust. Current version still in testing. 
 
 The plugin is fairly simplistic, there is no Eco or away mode.
-Implemented the Temeprature redout, humidity and managing setpoint.
+Implemented the Temeprature readout, humidity and managing setpoint.
 
 It is not perfect. 
 
